@@ -6907,6 +6907,10 @@ body:not(.touch-device) .header__item:hover .header__body {
   border-top: 1px solid #E3E6E9;
 }
 
+.footer__bottom p {
+  margin: 0 auto;
+}
+
 .footer__company {
   margin-right: 16px;
   font-size: 0;
