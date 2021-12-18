@@ -2629,7 +2629,7 @@ body:not(.touch-device) .header__item:hover .header__body {
 }
 
 .title_big {
-  font-size: 96px;
+  font-size: 72px;
 }
 
 .title[data-aos] .title__box:nth-child(2) .title__text {
