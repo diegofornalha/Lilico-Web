@@ -6903,8 +6903,7 @@ body:not(.touch-device) .header__item:hover .header__body {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  padding: 26px 0 50px;
-  border-top: 1px solid #E3E6E9;
+  padding: 20px 50px;
 }
 
 .footer__bottom p {
@@ -6948,6 +6947,22 @@ body:not(.touch-device) .header__item:hover .header__body {
 .footer__icon {
   margin-right: 16px;
   font-size: 0;
+}
+
+.footer .social-media {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: block;
+  align-items: center;
+}
+
+.footer a {
+  padding: 10px;
+  color: inherit
+}
+
+.footer a:visited {
+  color: inherit;
 }
 
 .entry {
