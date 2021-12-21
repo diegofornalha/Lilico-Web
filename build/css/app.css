@@ -13,6 +13,11 @@ output, ruby, section, summary, time, mark, audio, video {
   vertical-align: baseline;
 }
 
+.content {
+  margin: 20px;
+  padding: 20px;
+}
+
 html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
