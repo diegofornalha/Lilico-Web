@@ -2704,6 +2704,7 @@ body:not(.touch-device) .header__item:hover .header__body {
   -ms-flex-align: center;
   align-items: center;
   margin-bottom: 100px;
+  margin-left: -20px;
 }
 
 .main__control .main__icon {
