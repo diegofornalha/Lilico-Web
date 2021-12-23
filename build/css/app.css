@@ -13,11 +13,6 @@ output, ruby, section, summary, time, mark, audio, video {
   vertical-align: baseline;
 }
 
-.content {
-  margin: 20px;
-  padding: 20px;
-}
-
 html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -2680,6 +2675,12 @@ body:not(.touch-device) .header__item:hover .header__body {
   position: relative;
   z-index: 2;
   padding: 220px 0 100px;
+}
+
+.main-content {
+  position: relative;
+  z-index: 2;
+  padding: 100px 0;
 }
 
 .main__wrap {
