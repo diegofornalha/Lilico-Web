@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "lilico"
-  }
+    "default": "lilico-334404",
+    "testing": "lilico-334404"
+  },
+  "targets": {}
 }
