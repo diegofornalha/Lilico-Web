@@ -1,6 +1,1 @@
-<svg width="291" height="320" viewBox="0 0 291 320" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="110" height="320" rx="55" fill="#FC814A"/>
-<path d="M0 265C0 234.624 24.6243 210 55 210H201C231.376 210 256 234.624 256 265C256 295.376 231.376 320 201 320H55C24.6243 320 0 295.376 0 265Z" fill="#363636"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M0 265C0 295.376 24.6243 320 55 320C85.3757 320 110 295.376 110 265V210H55C24.6243 210 0 234.624 0 265Z" fill="#7678ED"/>
-<rect x="213" y="29" width="110" height="110" rx="36" transform="rotate(45 213 29)" fill="#FFD500"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="291" height="320" fill="none" viewBox="0 0 291 320"><rect width="110" height="320" fill="#FC814A" rx="55"/><path fill="#363636" d="M0 265C0 234.624 24.6243 210 55 210H201C231.376 210 256 234.624 256 265C256 295.376 231.376 320 201 320H55C24.6243 320 0 295.376 0 265Z"/><path fill="#7678ED" fill-rule="evenodd" d="M0 265C0 295.376 24.6243 320 55 320C85.3757 320 110 295.376 110 265V210H55C24.6243 210 0 234.624 0 265Z" clip-rule="evenodd"/><rect width="110" height="110" x="213" y="29" fill="#FFD500" rx="36" transform="rotate(45 213 29)"/></svg>
